@@ -101,6 +101,6 @@ This project focuses on enhancing **QR code recognition in retail environments**
 
 ## Authors
 - **Ishita Rana:**
-  LinkedIn Profile: www.linkedin.com/in/ishita-rana-03651b305
+  www.linkedin.com/in/ishita-rana-03651b305
 - **Leena:**
-  LinkedIn Profile: www.linkedin.com/in/leenabansal1108
+  www.linkedin.com/in/leenabansal1108
