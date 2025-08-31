@@ -1,11 +1,11 @@
 # Optimized QR Code Recognition in Retail Stores Using YOLOv7 and Cuckoo Search Algorithm
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on enhancing **QR code recognition in retail environments** by integrating **YOLOv7** (a state-of-the-art object detection model) with the **Cuckoo Search Optimization algorithm** for improved detection and efficiency. The solution aims to optimize recognition speed and accuracy, making it suitable for real-time applications in retail and inventory management.
 
 ---
 
-## ✅ Key Features
+## Key Features
 - **YOLOv7-based QR Code Detection**: Utilized for fast and accurate object detection.
 - **Cuckoo Search Optimization**: Applied to fine-tune detection parameters and improve performance.
 - **Optimized for Retail Use**: Handles real-world challenges like varying lighting, rotation, and occlusion.
@@ -13,7 +13,7 @@ This project focuses on enhancing **QR code recognition in retail environments**
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Language**: Python 3.x
 - **Libraries**: 
   - YOLOv7
@@ -29,7 +29,7 @@ This project focuses on enhancing **QR code recognition in retail environments**
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 ├── optimized-qr-code-recognition-in-retail-stores.ipynb  # Main Kaggle notebook
 ├── requirements.txt                                       # Dependencies
@@ -39,7 +39,7 @@ This project focuses on enhancing **QR code recognition in retail environments**
 
 ---
 
-## ⚙️ Installation & Setup
+## ⚙Installation & Setup
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Ishita200420/qr-code-recognition-yolov7-cuckoo.git
@@ -59,7 +59,7 @@ This project focuses on enhancing **QR code recognition in retail environments**
 
 ---
 
-## ▶️ How to Run
+## How to Run
 1. Open the Jupyter Notebook:
    ```bash
    jupyter notebook optimized-qr-code-recognition-in-retail-stores.ipynb
@@ -72,7 +72,7 @@ This project focuses on enhancing **QR code recognition in retail environments**
 
 ---
 
-## 📊 Results
+## Results
 - **Detection Accuracy**: Optimized using Cuckoo Search
 - **Improved Speed**: Faster recognition for retail scenarios
 - **Visual Outputs**: Includes detection bounding boxes and performance graphs
@@ -81,21 +81,21 @@ This project focuses on enhancing **QR code recognition in retail environments**
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 - Integrate with a real-time retail POS system.
 - Extend optimization to multi-object scenarios.
 - Deploy as a web-based or mobile application.
 
 ---
 
-## 🔗 Dataset & References
+## Dataset & References
 - Kaggle Notebook: [Link to Kaggle project](#) *(Replace with your actual Kaggle link)*
 - [YOLOv7 Official GitHub](https://github.com/WongKinYiu/yolov7)
 - Research on **Cuckoo Search Algorithm**
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
