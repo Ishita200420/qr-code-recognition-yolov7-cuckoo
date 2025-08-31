@@ -95,13 +95,8 @@ This project focuses on enhancing **QR code recognition in retail environments**
 
 ---
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Authors
 **Ishita Rana**  
-LinkedIn Profile: www.linkedin.com/in/ishita-rana-03651b305
-**Leena**
-LinkedIn Profile: www.linkedin.com/in/leenabansal1108
+- LinkedIn Profile: www.linkedin.com/in/ishita-rana-03651b305
+- **Leena**
+- LinkedIn Profile: www.linkedin.com/in/leenabansal1108
