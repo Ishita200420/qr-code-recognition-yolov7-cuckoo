@@ -34,7 +34,7 @@ This project focuses on enhancing **QR code recognition in retail environments**
 ├── optimized-qr-code-recognition-in-retail-stores.ipynb  # Main Kaggle notebook
 ├── requirements.txt                                       # Dependencies
 ├── README.md                                              # Project documentation
-└── results/                                               # (Optional) Detection results & visualizations
+└── results/                                               # Detection results & visualizations
 ```
 
 ---
@@ -65,7 +65,7 @@ This project focuses on enhancing **QR code recognition in retail environments**
    jupyter notebook optimized-qr-code-recognition-in-retail-stores.ipynb
    ```
 2. Follow the steps in the notebook to:
-   - Load the dataset (or your own images)
+   - Load the dataset or your own dataset
    - Run YOLOv7 detection
    - Apply Cuckoo Search Optimization
    - View performance metrics and visualizations
@@ -77,7 +77,11 @@ This project focuses on enhancing **QR code recognition in retail environments**
 - **Improved Speed**: Faster recognition for retail scenarios
 - **Visual Outputs**: Includes detection bounding boxes and performance graphs
 
-*(Add screenshots or sample results here)*
+<img width="829" height="330" alt="image" src="https://github.com/user-attachments/assets/bda4aed4-f813-47b8-af41-8ea635d53f39" />
+
+<img width="462" height="208" alt="image" src="https://github.com/user-attachments/assets/73596d53-b2ad-41a8-a704-f47d3aa5083e" />
+
+<img width="1041" height="437" alt="image" src="https://github.com/user-attachments/assets/47b35bfb-2660-42e1-afd2-cab27b2dacb8" />
 
 ---
 
