@@ -93,7 +93,7 @@ This project focuses on enhancing **QR code recognition in retail environments**
 ---
 
 ## Dataset & References
-- Kaggle Notebook: Link to Kaggle project: (https://www.kaggle.com/code/ishita200420/optimized-qr-code-recognition-in-retail-stores)
+- Kaggle Notebook: https://www.kaggle.com/code/ishita200420/optimized-qr-code-recognition-in-retail-stores
 - [YOLOv7 Official GitHub](https://github.com/WongKinYiu/yolov7)
 - Research on **Cuckoo Search Algorithm**
 
