@@ -100,7 +100,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👤 Author
+## Authors
 **Ishita Rana**  
-📌 [LinkedIn Profile](#) *(Replace with your LinkedIn URL)*  
-📧 Contact: *(Optional)*
+LinkedIn Profile: www.linkedin.com/in/ishita-rana-03651b305
+**Leena**
+LinkedIn Profile: www.linkedin.com/in/leenabansal1108
