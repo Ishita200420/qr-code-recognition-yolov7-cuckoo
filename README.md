@@ -39,7 +39,7 @@ This project focuses on enhancing **QR code recognition in retail environments**
 
 ---
 
-## ⚙Installation & Setup
+## Installation & Setup
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Ishita200420/qr-code-recognition-yolov7-cuckoo.git
